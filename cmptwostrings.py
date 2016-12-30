@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-
 def cmptwostrings(str1,str2):
 	len1 = len(str1)
 	len2 = len(str2)
