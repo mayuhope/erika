@@ -7,7 +7,7 @@ def cmptwostrings(str1,str2):
 	len2 = len(str2)
 	b = True
 	if len1 != len2:
-		print('not equal')
+		print('两个字符串不同')
 		b = False
 	elif len1 == len2:
 		for i in range(len1):
