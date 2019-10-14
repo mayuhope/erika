@@ -1,1 +1,1 @@
-# erika
+# compare  two  strings
